@@ -324,7 +324,7 @@ body.light-theme {
 .home__handle {
   justify-self: center;
   width: 450px;
-  height: 350px;
+  /* height: 350px; */
   border-radius: 10rem 10rem 1rem 1rem;
   display: flex;
   align-items: flex-end;
